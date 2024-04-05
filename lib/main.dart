@@ -15,6 +15,8 @@ class MyApp extends StatelessWidget {
       theme: ThemeData(
         // This is the theme of your application.
         //
+
+        // A widget which will be started on application startup
         // TRY THIS: Try running your application with "flutter run". You'll see
         // the application has a blue toolbar. Then, without quitting the app,
         // try changing the seedColor in the colorScheme below to Colors.green
